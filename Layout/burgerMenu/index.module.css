@@ -1,0 +1,27 @@
+.container {
+  margin-top: 1px;
+  background-color: #474747;
+  position: absolute;
+  width: 100%;
+  z-index: 2;
+  padding-bottom: 28px;
+}
+
+.link {
+  padding-top: 12px;
+  padding-bottom: 3px;
+  margin-left: 24px;
+  display: block;
+  cursor: pointer;
+  color: white;
+}
+
+.link:hover {
+  color: #ffe193;
+}
+
+@media only screen and (min-width: 600px) {
+  .container {
+    display: none;
+  }
+}

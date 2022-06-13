@@ -1,0 +1,14 @@
+.container {
+  /* width of round divide by 2 */
+  margin-left: 15px;
+  position: relative;
+  font-size: 0.625rem;
+  line-height: 0.906rem;
+}
+
+.round {
+  position: absolute;
+  z-index: -1;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}

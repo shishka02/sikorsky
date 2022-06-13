@@ -1,0 +1,15 @@
+.hrImageContainer {
+  background-size: cover;
+  height: calc(100vw / 2.25);
+  max-height: 463px;
+  background-position: top;
+  background-image: url("../../../assets/images/hr_representatives.png");
+}
+
+.handWithChartImageContainer {
+  background-size: cover;
+  height: calc(100vw / 3.2);
+  max-height: 463px;
+  background-position: top;
+  background-image: url("../../../assets/images/hand-with-financial-charts.png");
+}

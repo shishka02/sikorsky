@@ -1,0 +1,20 @@
+.container {
+  margin-top: 32px;
+  position: relative;
+  text-align: center;
+}
+
+.container .round {
+  width: 65px !important;
+  height: 65px !important;
+}
+
+.round {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -18%);
+}
+
+.text {
+  margin-top: 4px;
+}

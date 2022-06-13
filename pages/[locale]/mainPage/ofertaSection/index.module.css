@@ -1,0 +1,24 @@
+.section {
+  margin-bottom: 28px;
+}
+
+.textWithRound {
+  max-width: 260px;
+  margin: 0 auto;
+  margin-top: 44px;
+}
+
+.h2 {
+  font-weight: 900;
+  text-align: center;
+}
+
+.iconsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.iconsContainer > div {
+  flex: 50%;
+}

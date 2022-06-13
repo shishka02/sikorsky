@@ -1,0 +1,142 @@
+{
+  "header": {
+    "overtax": "Oferta",
+    "price": "Cennik",
+    "aboutUs": "O nas",
+    "contact": "Kontakt"
+  },
+  "services": {
+    "title": {
+      "1": "Profesjonale usługi",
+      "2": "dla każdego biznesu!",
+      "3": "Współpraca z nami daje możliwość skoncentrować się na tym co najważniejsze – Prowadzeniu Biznesu"
+    },
+    "esTrade": {
+      "1": "Z pasji i zamiłowania do liczb powstało",
+      "2": "biuro rachunkowe ES Trade"
+    },
+    "oferta": {
+      "info1": {
+        "text": "z zachowaniem pełnego profesjonalizmu. Firma z zasadami oraz indywidualnym podejściem do Klienta.",
+        "boldText": "Biuro, które oferuje Państwu jakość usług na najwyższym poziomie"
+      },
+      "info2": {
+        "text": "własną firmę, stąd każdorazowo czują Państwo naszą obecność poprzez stabilność finansową oraz rozwój Państwa działalności.",
+        "boldText": "W naszym biurze każdą rozliczaną firmę traktujemy jak swoją"
+      },
+      "info3": {
+        "text": "ubezpieczy Państwa biznes od niespodzianek oraz pozwoli spokojnie przejść przez wszystkie etapy rozwoju przedsiębiorstwa.",
+        "boldText": "Szeroka oferta świadczonych usług"
+      },
+      "iconsText": {
+        "calculator": "Obsługa księgowa",
+        "investment": "Działalność gospodarcza",
+        "selection": "Obsługa kadrowo-płacowa",
+        "settings": "Obcokrajowcy",
+        "documents": "Obsługa prawna"
+      }
+    },
+    "accountantTitle": "Obsługa księgowa",
+    "accountant": "\n\n\nProwadzenie ksiąg handlowych\n\nProwadzenie podatkowych ksiąg przychodu i rozchodu,\nryczałtu ewidencjonowanego, karty podatkowej\n\nProwadzenie ewidencji (rejestrów) dla celów rozliczenia podatku\nod towarów i usług (VAT)\nKontrola formalna i rachunkowa dokumentów\n\nProwadzenie spraw urzędowych w imieniu klientów, zaświadczenia,\nrejestracje, aktualizacje\nNIP Prowadzenie ewidencji środków trwałych i wyposażenia\n\nTworzenie i aktualizacja polityki rachunkowości oraz Zakładowego\nPlanu Kont – podstawowych narzędzi rachunkowości umożliwiających\nefektywne zarządzanie finansami podmiotu\n\nBieżąca ewidencja zdarzeń gospodarczych firmy\n\nSporządzanie sprawozdań finansowych",
+    "hrAndSalary": {
+      "title": "Obsługa kadrowo-płacowa",
+      "info": {
+        "1": {
+          "boldText": "Prowadzenie ewidencji pracowników",
+          "text": ""
+        },
+        "2": {
+          "boldText": "Prowadzenie akt osobowych pracowników, w",
+          "text": "zakresie wynikającym z prawa pracy i przepisów szczególnych"
+        },
+        "3": {
+          "boldText": "Prowadzenie dla pracowników",
+          "text": "całości spraw wynikających ze stosunku pracy. Rejestrowanie pracowników w ZUS i wyrejestrowywanie"
+        },
+        "4": {
+          "boldText": "Rejestracja zwolnień lekarskich",
+          "text": ""
+        },
+        "5": {
+          "boldText": "Wprowadzanie, aktualizowanie",
+          "text": "danych kadrowych w komputerowym systemie kadry-płace"
+        },
+        "6": {
+          "boldText": "Sporządzanie sprawozdań Z-03 oraz Z-06 o zatrudnieniu i wynagrodzeniach",
+          "text": "– w części dotyczącej zatrudnienia (jeśli są wymagane). Dokonywanie okresowych analiz wykorzystania czasu pracy (obecności, zwolnień, godzin nadliczbowych, urlopów)."
+        },
+        "7": {
+          "boldText": "Prowadzenie bieżącego",
+          "text": "archiwum akt osobowych pracowników."
+        },
+        "8": {
+          "boldText": "Naliczanie wynagrodzeń i prowadzenie obsługi płacowej",
+          "text": "pracowników na podstawie dokumentów płacowych oraz zgodnie z obowiązującym i przepisami."
+        },
+        "9": {
+          "boldText": "Sporządzanie list płac",
+          "text": ""
+        },
+        "10": {
+          "boldText": "Prowadzenie kartotek wynagrodzeń pracowników i comiesięczna ich aktualizacja.",
+          "text": "Naliczanie wynagrodzeń za czas nieobecności w pracy spowodowanej chorobą, zasiłków chorobowych, macierzyńskich i opiekuńczych, kontrola prawidłowości ustalania prawa do zasiłku chorobowego oraz prowadzenie kart zasiłkowych."
+        },
+        "11": {
+          "boldText": "Sporządzanie miesięcznych zestawień dotyczących naliczenia",
+          "text": "wynagrodzeń oraz informacji o odprowadzonych składkach na ubezpieczenia społeczne, zdrowotne, Fundusz Pracy, podatek dochodowy od osób fizycznych oraz innych potrąceń."
+        },
+        "12": {
+          "boldText": "Sporządzanie i wysyłanie miesięcznych deklaracji ZUS,",
+          "text": "przekazywanie przelewów na konta ZUS oraz sporządzanie Raportów Rocznych."
+        }
+      }
+    },
+    "legalAndServices": {
+      "title": "Obsługa prawna",
+      "legalContent": "Legalizacja pobytu\n\nNauka (szkoła, technikum, liceum, uniwersytet)\n\nFormalności Urzędowe\n\nPoszukiwanie pracy",
+      "helpTitle": "Obcokrajowcy",
+      "list": {
+        "1": "Legalizacja pobytu",
+        "2": {
+          "title": "Formalności Urzędowe",
+          "description": ""
+        },
+        "3": "Poszukiwanie pracy",
+        "4": {
+          "title": "Nauka",
+          "description": "(szkoła, technikum, liceum, uniwersytet)"
+        }
+      }
+    },
+    "price": {
+      "title": "Cennik",
+      "description": "powyższe ceny podlegają niegocjacją",
+      "accountant": {
+        "title": "Księgowość:",
+        "list": {
+          "1": "- ryczałt od 80 zl",
+          "2": "- księga przychodów i rochodów od 150 zl",
+          "3": "- księgi rachunkowe od 500 zl"
+        }
+      },
+      "hr": {
+        "title": "Kadry i Płace:",
+        "description": "30 – 40 zl za pracownika",
+        "list": {
+          "1": {
+            "boldText": "Działalność gospodarcza – ",
+            "text": "cena ustalana indywidualnie"
+          },
+          "2": {
+            "boldText": "Obsługa prawna – ",
+            "text": "cena ustalana indywidualnie"
+          },
+          "3": {
+            "boldText": "Obcokrajowcy – ",
+            "text": "cena ustalana indywidualnie"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+.section {
+  z-index: 1;
+  padding-bottom: 1.5rem;
+  background-image: url(../../../../assets/images/buble.svg);
+}
+
+.roundsContainer {
+  height: 13.2rem;
+  background-image: url("../../../../assets/images/laptop.jpg");
+  background-position: center;
+  position: relative;
+  width: 100%;
+}
+
+.bigRound {
+  position: absolute;
+  top: 36px;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  white-space: pre-line;
+  font-weight: 600;
+  line-height: 0.9rem;
+  font-size: 0.625rem;
+  width: 16.25rem !important;
+  height: 16.25rem !important;
+}
+
+.title {
+  margin: 0;
+  margin-bottom: 12px;
+  margin-top: 3.2rem;
+  font-size: 0.875rem;
+  line-height: 1.267rem;
+}
+
+.helpTitle {
+  text-align: center;
+  margin-top: 8.563rem;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+
+.listItem {
+  margin-top: 12px;
+  text-align: center;
+  font-size: 0.625rem;
+  line-height: 0.905rem;
+}
+
+.subListItem {
+  font-weight: 300;
+}

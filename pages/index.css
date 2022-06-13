@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@300;400;500;700;900&display=swap");
+
+html,
+body {
+  background-color: #f6f5f1;
+  padding: 0;
+  margin: 0;
+  font-weight: 500;
+  color: #000000;
+  font-family: "M PLUS 1p", BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu,
+    Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+button {
+  border: none;
+  background: none;
+}
+
+* {
+  box-sizing: border-box;
+}
